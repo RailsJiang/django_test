@@ -3,6 +3,9 @@ from django.conf import settings
 
 settings.configure(DJANGO_SETTING_MODULE='mysite.settings')
 
+import django
+django.setup()
+
 from django.test import TestCase
 from django.utils import timezone
 from django.urls import reverse
