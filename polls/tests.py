@@ -1,9 +1,12 @@
+import os
 import datetime
 
 from django.test import TestCase
 from django.utils import timezone
 from django.urls import reverse
 from .models import Question
+
+os.environ.setdefault('DJANGO_SETTING_MODULE', 'mysite.settings')
 
 
 class QuestionModelTests(TestCase):
