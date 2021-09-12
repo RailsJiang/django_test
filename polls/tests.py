@@ -1,9 +1,7 @@
-import os
 import datetime
+from django.conf import settings
 
-os.environ.setdefault('DJANGO_SETTING_MODULE', 'mysite.settings')
-import django
-django.setup()
+settings.configure(DJANGO_SETTING_MODULE='mysite.settings')
 
 from django.test import TestCase
 from django.utils import timezone
