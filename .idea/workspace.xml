@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c7a600-f976-486e-a3b6-bf1b3e77d77d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,7 +35,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
@@ -71,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631334899346</updated>
-      <workItem from="1631334903751" duration="10359000" />
+      <workItem from="1631334903751" duration="12321000" />
+      <workItem from="1631453690861" duration="1923000" />
     </task>
     <servers />
   </component>
@@ -79,6 +83,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1730" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631454217421">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1730" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.788/1440.25.1920.1055@1440.25.1920.1055" timestamp="1631454217421" />
+    <state x="1774" y="132" key="SettingsEditor" timestamp="1631454304397">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1774" y="132" key="SettingsEditor/0.25.1440.788/1440.25.1920.1055@1440.25.1920.1055" timestamp="1631454304397" />
     <state x="2693" y="278" width="667" height="486" key="find.popup" timestamp="1631376563759">
       <screen x="1440" y="25" width="1920" height="1055" />
     </state>
