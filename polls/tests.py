@@ -7,7 +7,8 @@ from django.urls import reverse
 from .models import Question
 
 os.environ.setdefault('DJANGO_SETTING_MODULE', 'mysite.settings')
-
+import django
+django.setup()
 
 class QuestionModelTests(TestCase):
 
